@@ -1,0 +1,6 @@
+# ignore ALL .log files
+.idea/**
+.idea/sonarlint/*
+out
+
+
